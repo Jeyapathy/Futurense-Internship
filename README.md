@@ -31,7 +31,9 @@ Python Program for n-th Fibonacci number
 5, python program to find tuple indices form other tuple list
 
 6, convert dictionary value list to dictionary list python
+
 #Second Week (8.3.24)
+
 Q1}Write a Python program to calculate the product, multiplying all the numbers in a given tuple.
 Original Tuple:
 (4, 3, 2, 2, -1, 18)
