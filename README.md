@@ -32,7 +32,7 @@ Python Program for n-th Fibonacci number
 
 6, convert dictionary value list to dictionary list python
 
-#Second week (8.3.240
+#Second week (8.3.24)
 
 Q1}Write a Python program to calculate the product, multiplying all the numbers in a given tuple.
 
